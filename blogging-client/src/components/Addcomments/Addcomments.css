@@ -1,0 +1,20 @@
+.comm{
+    box-shadow: -1px 0px 12px 7px white;
+    margin: 20%;
+    padding: 30px;
+}
+.ar{
+    height: 20vh;
+    width: 70%;
+}
+.btc{
+    border: 2px solid;
+    color: antiquewhite;
+    padding: 5px;
+    margin-right: 20px;
+}
+
+.btc:hover{
+    box-shadow: -1px 0px 12px 7px rgb(194, 78, 37);
+    transition: step-start;
+}

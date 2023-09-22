@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input{
+  height:40px;
+  border:2px solid grey;
+  padding: 10px;
+}
+
+input:focus{
+  outline:none;
+  border:2px solid rgb(208, 125, 8)
+}
+
+.primary{
+  background: orange;
+  border:none;
+  padding:5px 2px
+}
+
+body{
+ 
+}

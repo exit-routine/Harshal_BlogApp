@@ -1,0 +1,17 @@
+.btn{
+   
+    padding: 5px;
+    background: #c4a52f;
+}
+.btn:hover{
+    box-shadow: 0px 0px 7px 3px #ac5d15;
+}
+.btnwrap{
+    margin: 10px;
+    padding: 10px;
+}
+
+.commentswrapper{
+    
+    margin: 20px;
+}

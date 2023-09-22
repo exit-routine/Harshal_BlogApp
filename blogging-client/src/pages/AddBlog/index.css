@@ -1,0 +1,25 @@
+.background{
+    display:flex
+}
+
+.cat{
+    border: 2px solid;
+    padding: 5px;
+    margin-top:3px
+}
+.sv{
+
+}
+.ca{
+  border: 2px solid red;
+}
+
+.sv:hover{
+    box-shadow:  0px 1px 4px 3px rgb(29, 21, 21);
+}
+
+.ca:hover{
+    box-shadow:0px 1px 3px 3px rgb(133, 29, 29);
+    border: 2px solid white;
+    text-shadow: 0px 0px 5px red;
+}

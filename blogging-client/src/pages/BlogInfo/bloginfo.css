@@ -1,0 +1,20 @@
+.info{
+    border: 2px solid;
+    margin: 30px;
+    padding: 30px;
+    background-color: white;
+    min-height: 60vh;
+}
+.title{
+    text-decoration: underline;
+    margin: 10px;
+    font-weight: 500;
+    color: #090c11;
+    font-size: 50px;
+    text-shadow: 5px 4px 4px #af8868;
+    margin-bottom: 50px;
+}
+
+.creater{
+
+}

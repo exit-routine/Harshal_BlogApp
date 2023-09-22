@@ -1,0 +1,14 @@
+.bl{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 0;
+    box-shadow: inset 0px 0px 20px 2px #1b1818;
+    margin: 30px;
+    background-color: white;
+    
+}
+
+.combtn:hover{
+   box-shadow:  0px 0px 3px 2px green;
+}

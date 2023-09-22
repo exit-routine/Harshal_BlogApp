@@ -1,0 +1,62 @@
+.hm {
+    background-image: url('./../../public/images/retrosupply-jLwVAUtLOAQ-unsplash.jpg');
+    background-size: cover;
+
+
+    background-position: center center;
+
+
+    background-attachment: fixed;
+    min-height: 100vh
+}
+
+.cont {
+    padding: 100px;
+    background-color: rgba(0, 0, 0, 0.5);
+    min-height: 100vh;
+}
+
+.btnhome1 {
+    background-color: #249fd1;
+    margin-right: 20px;
+    border-radius: 10px 10px;
+    box-shadow: 2px 2px 9px 3px black;
+    color: cornsilk;
+    text-shadow: 5px 5px 16px black;
+}
+
+.btnhome2 {
+    background-color: #1fa597;
+    margin-right: 20px;
+    border-radius: 10px 10px;
+    box-shadow: 2px 2px 9px 3px black;
+    color: cornsilk;
+    text-shadow: 5px 5px 16px black;
+}
+
+.btnhome3 {
+    background-color: #d124cf;
+    margin-right: 20px;
+    border-radius: 10px 10px;
+    box-shadow: 2px 2px 9px 3px black;
+    color: cornsilk;
+    text-shadow: 5px 5px 16px black;
+}
+
+.btnhome1:hover {
+    transition: 1s;
+    transition-delay: 0s;
+    background-color: #1383af;
+}
+
+.btnhome2:hover {
+    transition: 1s;
+    transition-delay: 0s;
+    background-color: #138979;
+}
+
+.btnhome3:hover {
+    transition: 1s;
+    transition-delay: 0s;
+    background-color: #9812aa;
+}

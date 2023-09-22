@@ -1,0 +1,89 @@
+.sports{
+    background-image: url('../../../public/images/sports2.webp');
+    background-size: cover;
+
+
+    background-position: center center;
+
+
+    background-attachment: fixed;
+    min-height: 100vh
+}
+
+.personal{
+    background-image: url('../../../public/images/personal.jpeg');
+    background-size: cover;
+
+
+    background-position: center center;
+
+
+    background-attachment: fixed;
+    min-height: 100vh  
+}
+
+.spiritual{
+
+    background-image: url('../../../public/images/spiritual.jpeg');
+    background-size: cover;
+
+
+    background-position: center center;
+
+
+    background-attachment: fixed;
+    min-height: 100vh 
+
+}
+
+.technology{
+    background-image: url('../../../public/images/technology.jpeg');
+    background-size: cover;
+
+
+    background-position: center center;
+
+
+    background-attachment: fixed;
+    min-height: 100vh
+}
+.all{
+    background-image: url('../../../public/images/all.jpeg');
+    background-size: cover;
+
+
+    background-position: center center;
+
+
+    background-attachment: fixed;
+    min-height: 100vh
+}
+.commwrap{
+    background-color: rgba(0, 0, 0, 0.5);
+    min-height: 100vh;
+}
+
+.noblock{
+    padding: 70px;
+    display: flex;
+    min-height: inherit;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.btnhome1 {
+    padding: 8px;
+    background-color: #249fd1;
+    margin-right: 20px;
+    border-radius: 10px 10px;
+    box-shadow: 2px 2px 9px 3px black;
+    color: cornsilk;
+    text-shadow: 5px 5px 16px black;
+}
+
+.btnhome1:hover {
+    transition: 1s;
+    transition-delay: 0s;
+    background-color: #1383af;
+}

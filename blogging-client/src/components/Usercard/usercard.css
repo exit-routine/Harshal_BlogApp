@@ -1,0 +1,47 @@
+
+.userbtn1{
+    
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: coral;
+}
+.userbtn2{
+    
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: #d54d4d;
+    margin-right: 30px;
+}
+.userbtn3{
+    
+    padding: 10px;
+    
+    border-radius: 10px;
+    cursor: pointer; 
+    background-color: #72b772;
+    
+}
+.btn1:hover{
+    box-shadow: -2px -1px 9px 5px #886555;
+}
+.btn2:hover{
+    box-shadow: -2px -1px 9px 5px #a15750;
+}
+.btn3:hover{
+    box-shadow: -2px -1px 9px 5px #5d9a83;
+}
+
+.userbl1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px;
+    box-shadow: 1px 0px 9px 2px white;
+    background-color: #494744;
+    
+}
+.changes{
+    width: 50%;
+}
